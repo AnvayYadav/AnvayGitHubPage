@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## Anvay Yadav's CSP Page
+## Anvay's CSP Page
 This is about your journey. Start now!!!
 
 ## Overview of Hacks, Study and Tangibles
