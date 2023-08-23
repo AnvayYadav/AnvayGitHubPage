@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## Anvay's CSP Page
-This is about your journey. Start now!!!
+We both love python
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
