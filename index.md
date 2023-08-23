@@ -2,7 +2,8 @@
 
 ## Anvay's CSP Page
 ![](images/freeformpic.png)
-We both love python
+
+I drew this image in freeform to display some of my favorite things, and show my interests.
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
