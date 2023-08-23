@@ -1,7 +1,3 @@
----
-layout: default
-title: Student Blog
----
 
 
 ## Anvay's CSP Page
