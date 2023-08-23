@@ -5,6 +5,7 @@ title: Student Blog
 
 
 ## Anvay's CSP Page
+![](freeform pic.png)
 We both love python
 
 ## Overview of Hacks, Study and Tangibles
