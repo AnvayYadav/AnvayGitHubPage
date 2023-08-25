@@ -1,9 +1,4 @@
----
-layout: blogs
-permalink: /blogs
-title: Anvay's CSP Blogs
----
-In this page I will blog all my CSP progress this year.
+## Anvay's CSP Blogs
 
 <table>
   <tr>
