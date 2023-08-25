@@ -26,7 +26,13 @@ I drew this image in freeform to display some of my favorite things, and show my
 
 ## A recent youtube video from my favorite youtuber!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/meqTnHzXZus?si=08IAUsX7yfnf_v5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+width="560"
+height="315" 
+src="https://www.youtube.com/embed/meqTnHzXZus?si=08IAUsX7yfnf_v5h"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 
 ## Mini Game(no capitalization)

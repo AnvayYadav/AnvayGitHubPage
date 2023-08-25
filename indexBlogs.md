@@ -1,10 +1,13 @@
-## Anvay's CSP Blogs
-
+---
+layout: blogs
+permalink: /blogs
+title: Anvay's CSP Blogs
+---
 <table>
   <tr>
     <th>Commands</th>
     <th>Definition</th>
-    <th>Week Learnt</th>
+    <th>Week 0</th>
   </tr>
   <tr>
     <td>make</td>
@@ -16,24 +19,24 @@
     <td> converts Jupyter Notebook files, run this if your .ipynb files are not updating on the server.</td>
     <td>Learnt in Week 0</td>
   </tr>
-  <tr>
-    <td>wsl</td>
+    <tr>
+    <td>WSL</td>
     <td>lets you run a linux environment on your machine</td>
     <td>Learnt in Week 0</td>
   </tr>
-  <tr>
-    <td>cd ~ </td>
+    <tr>
+    <td>Cd ~ </td>
     <td> lets you change your directory to the home directory</td>
     <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>cd -vscode</td>
+    <td>Cd -vscode</td>
     <td>Lets you change your directory to the vs code directory
 </td>
     <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>ls</td>
+    <td>Ls</td>
     <td>Checks all the lists in the directory</td>
     <td>Learnt in Week 0</td>
   </tr>
@@ -54,27 +57,36 @@
     <td>prints statment</td>
     <td>Learnt in Week 1</td>
   </tr>
+   <tr>
  <tr>
-    <td> msg = input(“abcd”)</td>
+    <td> Msg = input(“abcd”)</td>
     <td>when variable msg is printed, input box states “abcd”, prompting the user to type something in the box
 </td>
     <td>Learnt in Week 1</td>
    </tr>
    <tr>
       <tr>
-    <td> if expression</td>
+    <td> if expressio</td>
     <td>evaluates for true and false
 </td>
     <td>Learnt in Week 1</td>
   
   </tr>
    <tr>
+    </tr>
    <tr>
       <tr>
     <td> # </td>
     <td>Comments out code and makes it invalid from running 
 </td>
     <td>Learnt in Week 1</td>
+  
+  </tr>
+   <tr>
+     
+
+
+
 
 
 <table>
