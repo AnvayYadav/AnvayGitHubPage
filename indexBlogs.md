@@ -20,23 +20,23 @@ title: Anvay's CSP Blogs
     <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>WSL</td>
+    <td>wsl</td>
     <td>lets you run a linux environment on your machine</td>
     <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Cd ~ </td>
+    <td>cd ~ </td>
     <td> lets you change your directory to the home directory</td>
     <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Cd -vscode</td>
+    <td>cd -vscode</td>
     <td>Lets you change your directory to the vs code directory
 </td>
     <td>Learnt in Week 0</td>
   </tr>
     <tr>
-    <td>Ls</td>
+    <td>ls</td>
     <td>Checks all the lists in the directory</td>
     <td>Learnt in Week 0</td>
   </tr>
@@ -53,20 +53,20 @@ title: Anvay's CSP Blogs
   </tr>
   
  <tr>
-    <td> print()< link></td>
+    <td> print()</td>
     <td>prints statment</td>
     <td>Learnt in Week 1</td>
   </tr>
    <tr>
  <tr>
-    <td> Msg = input(“abcd”)</td>
+    <td> msg = input(“abcd”)</td>
     <td>when variable msg is printed, input box states “abcd”, prompting the user to type something in the box
 </td>
     <td>Learnt in Week 1</td>
    </tr>
    <tr>
       <tr>
-    <td> if expressio</td>
+    <td> if expression</td>
     <td>evaluates for true and false
 </td>
     <td>Learnt in Week 1</td>
