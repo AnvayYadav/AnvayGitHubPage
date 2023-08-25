@@ -14,11 +14,11 @@ I drew this image in freeform to display some of my favorite things, and show my
 - Love playing tennis and piano
 - Spending time with my family and friends is my favorite thing
 
-![](images/Key West.png)
+![](images/KeyWest.png)
 
 ### A picture of the sunset from my trip to Key West!
 
-![](images/Juice wrld.png)
+![](images/Juicewrld.png)
 ### My favorite musical artist is Juice Wrld!
 
 ![](images/spiderverse.png)
