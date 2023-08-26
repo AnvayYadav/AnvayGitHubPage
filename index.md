@@ -58,5 +58,4 @@ I drew this image in freeform to display some of my favorite things, and show my
 
 ## Social Media
 
-[Github](https://github.com/AnvayYadav)_
-=
+[Github](https://github.com/AnvayYadav)
