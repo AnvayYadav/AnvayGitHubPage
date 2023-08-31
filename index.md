@@ -5,7 +5,7 @@ I drew this image in freeform to display some of my favorite things, and show my
 ![](images/freeformpic.png)
 
 
-## Some extra fun facts about me!
+## Some extra fun facts about me
 
 - Have a brother attending UC Berkeley
 - I have learned a decent amount of python, and began to learn html
