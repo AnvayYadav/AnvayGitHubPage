@@ -7,7 +7,7 @@ title: Anvay's CSP Blogs
   <tr>
     <th>Commands</th>
     <th>Definition</th>
-    <th>Week 0</th>
+    <th>Week Learnt</th>
   </tr>
   <tr>
     <td>make</td>
