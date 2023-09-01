@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Game of Life
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: A mini game built in.
 type: hacks
 courses: { compsci: {week: 2} }
 ---

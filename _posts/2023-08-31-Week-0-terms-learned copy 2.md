@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Week 2 terms
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: This post covers the terms that I've learnt this week.
 type: tangibles
 courses: { compsci: {week: 2} }
 ---

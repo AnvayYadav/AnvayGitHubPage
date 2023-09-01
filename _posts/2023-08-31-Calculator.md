@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Calculator
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: A basic algebra calculator!
 type: hacks
 courses: { compsci: {week: 2} }
 ---

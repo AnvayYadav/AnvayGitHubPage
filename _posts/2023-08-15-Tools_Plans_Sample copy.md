@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Week zero tangible
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: This post covers everything accomplished this week, paired with a brief summary.
 type: tangibles
 courses: { compsci: {week: 0} }
 ---

@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: hacks
 title: Python Multiple Choice
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: Multiple choice quiz that tests your knowledge on python.
 type: hacks
 courses: { compsci: {week: 1} }
 ---

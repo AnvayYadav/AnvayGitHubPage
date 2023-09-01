@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Week one tangibles
-description: Example Review Ticket!!! This will help us communicate results.
+description: This post covers everything accomplished this week, paired with a brief summary.
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
