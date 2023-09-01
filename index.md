@@ -28,33 +28,6 @@ I drew this image in freeform to display some of my favorite things, and show my
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/meqTnHzXZus?si=JfYCbPSvWmB0es9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Mini Game(no capitalization)
-
-<div>
-<script>
-    var question = 1
-        function checkInput() {
-            var userInput = document.getElementById("userInput").value;
-            if (userInput == "piano" && question == 1) {
-                document.getElementById("questionLabel").textContent = "What sport do I play"
-                document.getElementById("userInput").value = ""
-                question = question + 1
-            }
-            if (userInput == "tennis" && question == 2) {
-                document.getElementById("questionLabel").textContent = "What do I want to major in?"
-                document.getElementById("userInput").value = ""
-                question = question + 1
-                }
-             if (userInput == "computer science" && question == 3) {
-                alert("Success")
-                }
-        }
-    </script>
-    <label id = "questionLabel" for="userInput">What instrument do I play?</label>
-    <input type="text" id="userInput">
-    <button onclick="checkInput()">Submit</button>
-</div> 
-
 
 ## Social Media
 

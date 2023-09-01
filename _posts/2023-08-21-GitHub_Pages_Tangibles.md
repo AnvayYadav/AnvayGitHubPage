@@ -2,11 +2,13 @@
 toc: true
 comments: true
 layout: post
-title: Review Ticket
+title: Week one tangibles
 description: Example Review Ticket!!! This will help us communicate results.
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
+
+Week 1 has a two point Live-Review assignment. In this assignment my partner and I will be in a live session with Mr. Mortensen, and show him our websites, github pages, talk about the challenges we faced, and show him certain tools. In this assignment you must upload you're freeform picture that you must sketch online, and write a little bit about yourself, and customize the website as you please. In order to recieve full credit, you must do everything that is asked, and also do something extra. For extra credit, I have customized my website theme, added more images and videos, built a mini game, and designed the Blog Page. My main goal for this week is to get a high A on the Live-Review.
 
 ### Summary of Accomplishments
 > Update Blog to contain all hacks.  
