@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: hacks
+layout: post
 title: Python Multiple Choice
 description: Multiple choice quiz that tests your knowledge on python.
 type: hacks

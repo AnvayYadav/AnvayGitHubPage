@@ -1,7 +1,7 @@
 ---
 comments: false
 layout: post
-title: Week zero plans
+title: Week 0 plans
 description: These are all the plans/goals of week zero. Everything done in class will also be included in this section.
 type: plans
 courses: {'compsci': {'week': 0}}

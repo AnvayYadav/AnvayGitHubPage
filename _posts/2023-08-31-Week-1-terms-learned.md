@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Week zero terms
+title: Week 0 terms
 description: This post covers the terms that I've learnt this week.
 type: tangibles
 courses: { compsci: {week: 0} }

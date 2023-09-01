@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Week two tangible
+title: Week 2 tangible
 description: Displays all my accomplishments for this week, paired with a brief summary.
 type: tangibles
 courses: { compsci: {week: 2} }

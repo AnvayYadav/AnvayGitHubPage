@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Week one tangibles
+title: Week 1 tangibles
 description: This post covers everything accomplished this week, paired with a brief summary.
 type: tangibles
 courses: { compsci: {week: 1} }
