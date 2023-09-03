@@ -12,7 +12,7 @@ I drew this image in freeform to display some of my favorite things, and show my
 - Moved from India to the US at the age of 5
 - Aspiring to become a proficient computer scientist
 - Love playing tennis and piano
-- Spending time with my family and friends is my favorite
+- Spending time with my family and friends is my favorite!
 
 ![Key West](images/KeyWest.png)
 
