@@ -10,6 +10,7 @@ courses: { compsci: {week: 3} }
 
 ### PBL Unit 1 / Week 0
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,8 +32,7 @@ courses: { compsci: {week: 3} }
     </ul>
 
     <script>
-        // Replace 'YOUR_API_KEY' with your actual Last.fm API key
-        const apiKey = 'YOUR_API_KEY';
+        const apiKey = 24bbe3c7852fb05ab05a444bd291bf92;
 
         async function getTopArtists() {
             const userInput = document.getElementById("userInput").value;
