@@ -55,3 +55,13 @@ courses: { compsci: {week: 3} }
     </div>
 </body>
 </html>
+
+<html>
+<head>
+    <title>Python Terms and Definitions</title>
+</head>
+<body>
+    <h1>Python Terms and Definitions</h1>
+    <table border="1">
+        <tr>
+          
