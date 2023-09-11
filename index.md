@@ -32,3 +32,7 @@ I drew this image in freeform to display some of my favorite things, and show my
 ## Social Media
 
 [Github](https://github.com/AnvayYadav)
+
+Personal email: anvrakesh@gmail.com
+
+School email: anvayy25854@stu.powayusd.com
