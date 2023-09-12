@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Sports player
+title: Sports player betting
 description: A coin flip
 type: hacks
 courses: { compsci: {week: 3} }
