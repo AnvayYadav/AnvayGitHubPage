@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Immsersive VR experience
 description: This is a test
-type: hacks
+type: tangibles
 courses: { compsci: {week: 3} }
 ---
 

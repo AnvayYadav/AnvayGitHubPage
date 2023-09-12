@@ -11,11 +11,11 @@ courses: { compsci: {week: 3} }
 ### PBL Unit 1 / Week 0
 
 
-![Ronaldo](images/ronaldo.png)
+![Ronaldo](ronaldo.png)
 
 ### A picture of my favorite soccer player, Ronaldo.
 
-![Lebron James](images/lebronjames.png)
+![Lebron James](/images/lebronjames.png)
 
 ### My favorite basketball player, Lebron James.
 

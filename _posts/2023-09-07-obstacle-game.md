@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Obstacle game
 description: This is a game with obstacles
-type: hacks
+type: tangibles
 courses: { compsci: {week: 3} }
 ---
 

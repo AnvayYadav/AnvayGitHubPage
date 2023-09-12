@@ -60,3 +60,54 @@ def multiplication(n1, n2):
 print(multiplication(5,3))
 ```
 Although defining a function may feel useless, in many scenarios it can save you from writing a lot of code, and save space.
+
+### HTML Structure
+
+- In HTML, the <div> element is a container that is often used to group and structure content on a web page. The name "div" stands for "division," and it is one of the most commonly used HTML elements for creating layouts and organizing content. The <div> element itself doesn't have any meaning, its purpose is to provide a way to group together and apply styling or scripting to a set of HTML elements.
+
+```
+<div>
+    <h1>This is Anvay and Srini's website</h1>
+    <p>main content goes here</p>
+</div>
+```
+
+- In HTML, the script element is used to embed or reference client-side JavaScript code within an HTML document. Java script allows you to perform various tasks on a web page.
+Attributes:
+src: Specifies an external JavaScript file to be linked.
+type: Specifies the scripting language (usually set to "text/javascript").
+Example of inline script:
+
+- example of inline script
+```
+<script type="text/javascript">
+    // JavaScript code here
+    console.log("Hello, world!");
+</script>
+```
+```
+<script src="script.js" type="text/javascript"></script>
+```
+- In HTML, Description: The input element is used to create interactive form controls that allow users to input data. It can be used to create various types of input fields such as text boxes, checkboxes, radio buttons, and more.
+Common attributes:
+type: Specifies the type of input control (e.g., "text", "checkbox", "radio", "submit").
+name: Provides a name for the input element, which is used when submitting form data.
+value: Sets the initial value of the input element.
+```
+<input type="text" name="username" placeholder="Enter your username">
+```
+- Above there's an example of text input
+```
+<input type="checkbox" name="subscribe" value="yes"> Subscribe to newsletter
+```
+- Above there's an example of a checkbox
+
+- Description: The span element is an inline-level container used to apply styling or scripting to a specific portion of text or content within a larger block of text. It is often used to target and style specific words or phrases within paragraphs or headings.
+
+```
+.highlighted {
+    background-color: yellow;
+    font-weight: bold;
+}
+```
+The script, input, and span elements are fundamental to creating interactive web pages.
