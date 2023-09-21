@@ -8,7 +8,7 @@ type: tangibles
 courses: { compsci: {week: 3} }
 ---
 
-### PBL Unit 1 / Week 0
+### PBL Unit 1 / Week 3
 
 <html lang="en">
 <head>
