@@ -51,3 +51,8 @@ courses: { compsci: {week: 5} }
 - JavaScript can dynamically create HTML elements and add them to the page.
 - Functions in JavaScript can be used to encapsulate code for reuse.
 - The `onclick` event allows developers to trigger functions when certain HTML elements are clicked.
+
+## Scores
+
+4/4 rating from Sri. He likes the details, and how I went above and beyond with utterances, a detailed review ticket, and me fixing all of the errors.
+4/4 rating from Srini. He appreciates the detail I put into my work.
