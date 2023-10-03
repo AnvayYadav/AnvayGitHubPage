@@ -9,7 +9,6 @@ courses: { compsci: {week: 5} }
 ---
 
 
-## GPT REVIEW AND SUMMARY
 ## Summary of JavaScript Concepts
 - JavaScript can be included in HTML or Jupyter cells using `<script></script>` tags.
 - The output of JavaScript code, such as `console.log` statements, can be viewed in the browser's console.
