@@ -9,3 +9,8 @@ Unit2:
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
   end: 7
+Unit3:
+  title: Web Application, Data, and N@tM
+  description: Student teams need to build their own Website and individuals need to blog their learnings. In November, the Trimester will end by presenting team project at the Electives Department "Night at the Museum" (N@tM).
+  start: 8
+  end: 12
