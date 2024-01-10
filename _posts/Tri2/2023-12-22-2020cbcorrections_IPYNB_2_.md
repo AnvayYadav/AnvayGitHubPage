@@ -1,0 +1,52 @@
+---
+toc: True
+comments: False
+layout: post
+title: CB 2020 MC Quiz Corrections
+description: CB 2020 MC Quiz Corrections
+type: tangibles
+courses: {'compsci': {'week': 17}}
+---
+
+## MC Review
+
+### My score: 60/67
+
+### My Learning Journey
+
+- Overview: Working through the AP Computer Science Principles multiple-choice questions has been a beneficial learning experience. These questions, which covered a large amount of topics from the basic code to more complex computer science concepts, have been key to expanding my understanding in the subject and preparing me for the ap exam that will take place in May. Each question strengthened my vocabulary and knowledge of this subject, as questions ranged from basic pseudo code to logic questions. Doing this practice helps me identify what I need to work on, and learn in order to become a better computer science student.
+
+- My Journey: I'd say that many factors were part of my journey to learn all of the content present in the practice quiz.These factors include the terminology being used from team teaches which helped me be able to understand the question a bit better because of the background information from said team teaches. I assume that I got a better score on this MCQ compared to my previous one because of sheer experience. My first one was a new experience but now I am getting in the groove of taking these kinds of tests. A tool I utilized when I was stuck was Chat-GPT which aided in explaining the question more in depth and allowing for a deeper understanding. Talking to peers was also essential in my learning journey as two minds are better than one and I was also able to hear another perspective of the questions.
+
+- Alongside the team teaches I want to emphasize just how important and useful collaboration was. Collaboration emerged as a cornerstone of my preparation strategy. The collective wisdom of fellow students played a crucial role in enhancing my comprehension of complex topics. Engaging in student-led discussions, I found myself navigating through past papers and sample questions with peers, allowing for a dynamic exchange of insights. This collaborative effort not only familiarized me with the specific parts of the exam format but also helped me identify where I need to improve.
+
+- Lastly I want to talk about how the collegeboard videos were really beneficial in helping me prepare. Going through the videos that were assigned and other videos in the stuff we're learning in class helped me get a better grasp on certain topics. I also read the blogs posted on the nighthawkcoders page, as they contain some valuable knowledge and information that I want to utilize. These study tools helped me learn by myself, outside of school.
+
+### MC Corrections
+
+- Q11: The question is asking to identify a color from a given binary RGB triplet. Each binary number in the triplet represents a decimal value that corresponds to a color in the table. The binary numbers (11111111, 11111111, 11110000) convert to decimal as (255, 255, 240). Looking at the table, the decimal triplet (255, 255, 240) matches A(ivory) but I chose incorrectly.
+
+- Q12: The question is asking to identify the RGB triplet for a certain color. The color's RGB triplet is (75, 0, 130). The binary numbers that correspond to this are (01001011, 00000000, 01000001), so upon further inspection it's now clear that the answer is D, (01001011, 00000000, 01000001)
+
+- Q23: The question is asking to determine which of the statements is equivalent to the algorithm in the flowchart. Answer D, the flowchart sets available to true whenever weekday is true and miles is less than 20, and sets available to false otherwise. This code statement provides the same functionality.
+
+- Q49: This is the question, "An office uses an application to assign work to its staff members. The application uses a binary sequence to represent each of 100 staff members. What is the minimum number of bits needed to assign a unique bit sequence to each staff member?"
+
+The answer is 7, as 7 bits will allow 2^7 = 128 employees.
+
+- Q57: The question is, "The transmission control protocol (TCP) and Internet protocol (IP) are used in Internet communication. Which of the following best describes the purpose of these protocols?"
+
+The answer is C, as Protocols for Internet communication, such as TCP/IP, are intended to define a standard format for messages sent between devices on the Internet.
+
+
+- Q64: Asks for what scenarios the program doesn't return the intended values. B and D, since y is initially negative, the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned.
+
+- Q67: This question asks for which code segments the function NumOccurences will not return the intended value. The two options are A and B, as the function is faulty and changes the word count to 0 when moving to the next element on the list. These two had the targeted word in the beginning and middle, but since the programs set value to 0 the returned value is innacurate.
+
+### Final thoughts
+
+- I though that this quiz was very beneficial for my learning as we dont do much of this kind of stuff in class and this is really the only time that I am able to prepare for the AP exam. I appreciate that this is also about the team teaches as well so that I am able to use background information. I hope to keep taking more quizzes and expanding my knowledge in this field.
+
+
+
+
