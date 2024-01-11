@@ -1,4 +1,12 @@
-
+---
+toc: true 
+comments: true 
+layout: post
+title: CrowdSourcing HW
+description: CrowdSourcing HW
+type: hacks
+courses: { compsci: {week: 16} } 
+---
 
 
 ### Explain the concept of crowdsourcing. Provide examples of how it is commonly used in different fields.
