@@ -22,17 +22,15 @@ courses: {'compsci': {'week': 21}}
 - In addition to this, Mr. Lopez suggested that we alert freelancers that have applied if they were accepted for the job. We are going to use this feedback to create a profiling system and make our website more applicable to the real world
 
 ### Meme Maker project of another group
-![](mememaker.jpg)
+![mememakerproject](../../../images/mememaker.jpg)
 
 ### Very impressive mario project
 
-![](images/mario.jpg)
+![marioproject](../../../images/mario.jpg)
 
 ### Additional projects
 
-![](images/casino.jpeg)
+![casinoproject](../../../images/casino.jpeg)
 
-![](images/clash.jpg)
-
-
+![clashroyaleproject](../../../images/clash.jpg)
 
