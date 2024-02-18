@@ -34,3 +34,6 @@ courses: {'compsci': {'week': 21}}
 
 ![clashroyaleproject](../../../images/clash.jpg)
 
+### Overall thoughts
+
+I saw many projects at N@TM, including one with an online casion, mario game, meme generator, and a clash royale deck creator. I could tell that people put a lot of effort into these projects. A lot of impressive projects, and we even saw a CSA group with a website with the same idea as our own group. The overall mood and atmosphere of the night was good, and I met and talked to a lot of people about their project and development.
