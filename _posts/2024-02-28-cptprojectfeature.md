@@ -26,13 +26,13 @@ Below the github statistics that show my commits and contributions are present:
 
 Frontend commits:
 
-![Frontend comits](images/frontendcommits.png)
+![Frontend comits](../../../images/frontendcommits.png)
 
 [This](https://github.com/AidanLau10/joblyFrontend/commits/main/) is the link so you can check out the frontend contributions for yourself.
 
 Backend commits:
 
-![Backend commits](images/backendcommits.png) 
+![Backend commits](../../../images/backendcommits.png) 
 
 [This](https://github.com/AidanLau10/joblyBackend/commits/main/) is the link so you can check out the backend contributions for yourself.
 
@@ -42,26 +42,28 @@ Our CPT project had a variety of features. The feature that I worked on was a re
 
 Below I provide you with a youtube video I created that perfectly encapsulates my feature.
 
-![Youtube video](https://www.youtube.com/embed/v7FZJUuHpWI?si=wk3FNXlUqEGGLCob)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7FZJUuHpWI?si=ffuSDKZsk_cYKc3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 Here is an image of what my feature looks like on the site, alongside an image of the database I made for this reviews feature:
 
-![Review feature](images/Reviewsite.png)
+![Review feature](../../../images/Reviewsite.png)
 
-![Database image](/home/anvayyadav/vscode/AnvayGitHubPage/images/reviewdatabase.png)
+![Database image](../../../images/reviewdatabase.png)
 
 Overall, my opinion on my feature are that it works very well, just could use a bit more front end styling. Other then that I believe this feature is very detailed. My feature does meet college board requirements.
 
 ### Plan crafted for frontend
 
-![jobly plan1](images/joblyplan1.png)
-![jobly plan2](images/joblyplan2.png)
+![jobly plan1](../../../images/joblyplan1.png)
+![jobly plan2](../../../images/joblyplan2.png)
 
 ### College board requirements
 
 These are the CB requirements for the CPT project:
 
-![requirements](images/Collegeboardrequirements.png)
+![requirements](../../../images/Collegeboardrequirements.png)
 
 All of thesse requirements were met and our project is set for the AP exam.
 
