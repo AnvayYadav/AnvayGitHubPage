@@ -65,6 +65,31 @@ These are the CB requirements for the CPT project:
 
 ![requirements](../../../images/Collegeboardrequirements.png)
 
+### Instructions from input of the user
+
+- My feature revolves around the inputs from the user when they fill out the survery
+Image showing user interface when prompted with review survery:
+
+![Review feature](../../../images/Reviewsite.png)
+
+### Use of at least one list (or other collection type) to represent a collecting of data that is stored and used to manage program complexity and help fulfill the users purpose.
+
+- The collection of data is shown from the database I made for the reviews. This SQlite table collects the information that the user fills out when prompted with the review survey. The data stored are the rating provided and the comments made by the user.
+
+![Database image](../../../images/reviewdatabase.png)
+
+### At least one procedure that contirubted to the program’s intened purpose where you have defined: the name, return type, one or more parameters:
+
+![image](../../../images/define.png)
+
+### An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure
+
+![image2](../../../images/defined.png)
+
+### Instructions for output (tactile, audible, visual, or ) based on input and program functionality
+
+![iamge3](../../../images/frontendcode.png)
+
 All of thesse requirements were met and our project is set for the AP exam.
 
 ### Overall thoughts + errors
