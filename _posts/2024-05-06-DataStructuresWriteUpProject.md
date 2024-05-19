@@ -44,8 +44,9 @@ Rating and comment information is extracted. If this is done correctly, data is 
 ### In Postman, show URL request and Body requirements for GET, POST, and UPDATE methods.
 ![image](https://github.com/AnvayYadav/student/assets/142522800/c1f2f103-33c4-4ec0-9661-2657bbf85c5a)
 ![image](https://github.com/AnvayYadav/student/assets/142522800/d2b5a5df-3b76-4a87-8da3-3a5bdac800c4)
+![alt text](../../../images/imagesss.png)
 
-In postman we can see how the endpoint is good for Get and Post methods.
+In postman we can see how the endpoint is good for Get, Post, and Put methods.
 
 # Lists and Dictionaries
 ### Blog Python API code and use of List and Dictionaries.
@@ -86,6 +87,7 @@ Image of browser with all reviews nicely formatted inside a box created.
 ### In JavaScript code, show code that performs iteration and formatting of data into HTML.
 
 ![alt text](../../../images/image-12.png)
+![alt text](../../../images/images.png)
 
 ### In the Chrome browser, show a demo (POST or UPDATE) gathering and sending input and receiving a response that show update. Repeat this demo showing both success and failure.
 
