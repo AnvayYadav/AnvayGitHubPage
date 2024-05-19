@@ -87,7 +87,7 @@ Image of browser with all reviews nicely formatted inside a box created.
 ### In JavaScript code, show code that performs iteration and formatting of data into HTML.
 
 ![alt text](../../../images/image-12.png)
-![alt text](../../../images/images.png)
+![alt text](../../../images/imagess.png)
 
 ### In the Chrome browser, show a demo (POST or UPDATE) gathering and sending input and receiving a response that show update. Repeat this demo showing both success and failure.
 
